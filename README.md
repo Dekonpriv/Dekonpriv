@@ -41,9 +41,3 @@
 <img align="right" height="150" src="https://i.imgur.com/OjgHpnO.png"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Dekonpriv/Dekonpriv/output/snake.svg" alt="Snake Game" />
-
-###
