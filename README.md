@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Dekonpriv/Dekonpriv/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dekonpriv/Dekonpriv/output/snake.svg" alt="Snake game" />
 
 ###
