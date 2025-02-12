@@ -1,12 +1,4 @@
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.imgur.com/rjBLygA.gif"  />
-</div>
-
-###
+![Wallpaper Dekonpriv](https://i.imgur.com/rjBLygA.gif)
 
 <h2 align="left">Você conhece o  Dekon?</h2>
 
@@ -45,6 +37,8 @@
 )](https://www.deviantart.com/dekonartes)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/dekonofc)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ctxDkwurwk)
+
+[![Google Logo](https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png)](https://www.google.com)
 
 ###
 
