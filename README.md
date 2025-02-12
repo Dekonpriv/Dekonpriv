@@ -1,4 +1,14 @@
-<h2 align="left">Anderson Dekon, a lenda viva!</h2>
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.imgur.com/rjBLygA.gif"  />
+</div>
+
+###
+
+<h2 align="left">Você conhece o  Dekon?</h2>
 
 ###
 
@@ -39,5 +49,3 @@
 ###
 
 <img align="right" height="150" src="https://i.imgur.com/OjgHpnO.png"  />
-
-###
