@@ -32,7 +32,7 @@
 [![Youtube](https://i.imgur.com/cZu4uDa.png)](https://www.youtube.com/@Dekonpriv/)
 [![Instagram](https://i.imgur.com/KNx94tT.png)](https://www.instagram.com/dekonpriv)
 [![Discord](https://i.imgur.com/cm9pvLD.png)](https://discord.com/invite/ctxDkwurwk)
-[![DekonDrops](https://i.imgur.com/MAajuJ0.png)](https://www.google.com)
+[![DekonDrops](https://i.imgur.com/MAajuJ0.png)](https://deviantart.com/dekonartes)
 [![Brainly](https://i.imgur.com/CXoh7Lg.png)](https://brainly.com.br/app/profile/47172931/answers)
 [![SoundCloud](https://i.imgur.com/DuxbE5Z.png)](http://soundcloud.com/dekonofc)
 
