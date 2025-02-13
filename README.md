@@ -28,17 +28,13 @@
 
 ###
 
-[![DrekonDrops](https://img.shields.io/badge/DrekonDrops-Website-blue?style=for-the-badge&logo=https://i.imgur.com/bVZsDvL.png)](https://dekondrops.blogspot.com/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-)](https://youtube.com/c/Dekonpriv)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://instagram.com/Dekonpriv)
-[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white
-)](https://www.deviantart.com/dekonartes)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/dekonofc)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ctxDkwurwk)
-
-[![Google Logo](https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png)](https://www.google.com)
+[![DekonDrops](https://i.imgur.com/wCs2u6n.png)](https://dekondrops.blogspot.com/)
+[![Youtube](https://i.imgur.com/cZu4uDa.png)](https://www.youtube.com/@Dekonpriv/)
+[![Instagram](https://i.imgur.com/KNx94tT.png)](https://www.instagram.com/dekonpriv)
+[![Discord](https://i.imgur.com/cm9pvLD.png)](https://discord.com/invite/ctxDkwurwk)
+[![DekonDrops](https://i.imgur.com/MAajuJ0.png)](https://www.google.com)
+[![Brainly](https://i.imgur.com/CXoh7Lg.png)](https://brainly.com.br/app/profile/47172931/answers)
+[![SoundCloud](https://i.imgur.com/DuxbE5Z.png)](http://soundcloud.com/dekonofc)
 
 ###
 
