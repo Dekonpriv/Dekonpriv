@@ -1,4 +1,6 @@
-![Wallpaper Dekonpriv](https://i.imgur.com/rjBLygA.gif)
+<div align="center">
+  <img height="200" src="https://i.imgur.com/VGd2sj9.png"  />
+</div>
 
 <h2 align="left">Você conhece o  Dekon?</h2>
 
@@ -39,3 +41,4 @@
 ###
 
 <img align="right" height="150" src="https://i.imgur.com/OjgHpnO.png"  />
+
