@@ -44,6 +44,6 @@
 <p alight="left">Ser programador é transformar ideias em realidade através de linhas de código. É errar, corrigir, aprender e evoluir a cada bug. É a arte de solucionar problemas antes mesmo que existam, criando soluções que facilitam vidas. Não se trata apenas de escrever comandos para uma máquina, mas de construir o futuro, um algoritmo de cada vez.</p>
 <br>
 <br>
-<img align="left" height="150" src="https://i.imgur.com/VGd2sj9.png"/>
-<p align="right">Mas nem tudo é sobre progresso e inovação. Às vezes, o programador cai no limbo — aquele estado onde nada funciona, o código se torna um enigma e cada tentativa parece levar ainda mais fundo ao caos. O limbo da programação é um espaço onde o tempo se dissolve entre loops infinitos e erros sem sentido.</p>
+<img align="right" height="100" src="https://i.imgur.com/VGd2sj9.png"/>
+<p align="left">Mas nem tudo é sobre progresso e inovação. Às vezes, o programador cai no limbo — aquele estado onde nada funciona, o código se torna um enigma e cada tentativa parece levar ainda mais fundo ao caos. O limbo da programação é um espaço onde o tempo se dissolve entre loops infinitos e erros sem sentido.</p>
 <p>Mas é ali, no meio da confusão, que nasce o verdadeiro aprendizado. Porque sair do limbo não é apenas encontrar a solução, é crescer com ela.</p>
