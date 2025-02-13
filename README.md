@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgur.com/VGd2sj9.png"  />
+  <img height="200" src="https://i.imgur.com/ah4AhDH.png"  />
 </div>
 
 <h2 align="left">Você conhece o  Dekon?</h2>
